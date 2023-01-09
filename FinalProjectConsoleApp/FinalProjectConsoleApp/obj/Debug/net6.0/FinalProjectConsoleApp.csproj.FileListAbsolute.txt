@@ -1,0 +1,15 @@
+C:\Users\umid_\source\repos\FinalProjectConsoleApp\FinalProjectConsoleApp\bin\Debug\net6.0\FinalProjectConsoleApp.exe
+C:\Users\umid_\source\repos\FinalProjectConsoleApp\FinalProjectConsoleApp\bin\Debug\net6.0\FinalProjectConsoleApp.deps.json
+C:\Users\umid_\source\repos\FinalProjectConsoleApp\FinalProjectConsoleApp\bin\Debug\net6.0\FinalProjectConsoleApp.runtimeconfig.json
+C:\Users\umid_\source\repos\FinalProjectConsoleApp\FinalProjectConsoleApp\bin\Debug\net6.0\FinalProjectConsoleApp.dll
+C:\Users\umid_\source\repos\FinalProjectConsoleApp\FinalProjectConsoleApp\bin\Debug\net6.0\FinalProjectConsoleApp.pdb
+C:\Users\umid_\source\repos\FinalProjectConsoleApp\FinalProjectConsoleApp\obj\Debug\net6.0\FinalProjectConsoleApp.csproj.AssemblyReference.cache
+C:\Users\umid_\source\repos\FinalProjectConsoleApp\FinalProjectConsoleApp\obj\Debug\net6.0\FinalProjectConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umid_\source\repos\FinalProjectConsoleApp\FinalProjectConsoleApp\obj\Debug\net6.0\FinalProjectConsoleApp.AssemblyInfoInputs.cache
+C:\Users\umid_\source\repos\FinalProjectConsoleApp\FinalProjectConsoleApp\obj\Debug\net6.0\FinalProjectConsoleApp.AssemblyInfo.cs
+C:\Users\umid_\source\repos\FinalProjectConsoleApp\FinalProjectConsoleApp\obj\Debug\net6.0\FinalProjectConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\umid_\source\repos\FinalProjectConsoleApp\FinalProjectConsoleApp\obj\Debug\net6.0\FinalProjectConsoleApp.dll
+C:\Users\umid_\source\repos\FinalProjectConsoleApp\FinalProjectConsoleApp\obj\Debug\net6.0\refint\FinalProjectConsoleApp.dll
+C:\Users\umid_\source\repos\FinalProjectConsoleApp\FinalProjectConsoleApp\obj\Debug\net6.0\FinalProjectConsoleApp.pdb
+C:\Users\umid_\source\repos\FinalProjectConsoleApp\FinalProjectConsoleApp\obj\Debug\net6.0\FinalProjectConsoleApp.genruntimeconfig.cache
+C:\Users\umid_\source\repos\FinalProjectConsoleApp\FinalProjectConsoleApp\obj\Debug\net6.0\ref\FinalProjectConsoleApp.dll
